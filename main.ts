@@ -1,5 +1,8 @@
 /**
- * 1. Make a prediction about what "show string Hello" will do. Write it on your worksheet.
+ * This is a comment in makecode. It may look similar to ones you've seen in Scratch.
+ */
+/**
+ * 1. Make a prediction about what "show string Hello" will do. Discuss it with your table.
  * 
  * 2. Replace the heart icon with the string "Hello"
  * 
@@ -13,9 +16,3 @@
  * 
  * 7. Download your completed image to your Microbit device and share your code to the classroom.
  */
-/**
- * This is a comment in makecode. It may look similar to ones you've seen in Scratch.
- */
-basic.forever(function () {
-	
-})
