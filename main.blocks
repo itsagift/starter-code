@@ -1,7 +1,21 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="^VrR^;W[8N%mL#8?O1o:" x="191" y="-29"></block><block type="pxt-on-start" id="}s%MQ.#tMDbi)$@ljQ^~" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="7{r}X3NSt]v:SiNJQrTI"><field name="i">IconNames.Heart</field></block></statement></block><block type="device_print_message" id="?jR(RS$dP~QuW*Q=!::m" disabled-reasons="pxt_automatic_disabled" x="11" y="197"><value name="text"><shadow type="text" id="?7fVUWDG;]:AFQp~zB9m" disabled-reasons="pxt_automatic_disabled"><field name="TEXT">Hello!</field></shadow></value><next><block type="device_show_leds" id="qO-5F53pU#^*]PEM9rps" disabled-reasons="pxt_automatic_disabled"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><comment id="~[k83qu6bIO?o:qXlFC]" x="268.25021756671026" y="23.986134626769516" w="338.2421875" h="117.03125">This is a comment in makecode. It may look similar to ones you've seen in Scratch.
+
+</comment><comment id="FF`Nzx.sZZC0|K_0)tAP" x="270.218362669585" y="153.18110195563895" w="451.6915283203125" h="538.8097839355469">1. Make a prediction about what "show string Hello" will do. Write it on your worksheet.
+
+2. Replace the heart icon with the string "Hello"
+
+3. Download the code and make sure it runs on your Microbit device. Does it look the same as the simulator?
+
+4. Change the string to your name 
+
+5. Download your code again and run it on your Microbit device.
+
+6. Choose one of the images on the screen. Try to represent it using the 25 Microbit LEDs. Use the planning sheet to brainstorm before running your code. 
+
+7. Download your completed image to your Microbit device and share your code to the classroom.</comment><block type="device_forever" id="^VrR^;W[8N%mL#8?O1o:" x="191" y="-29"></block><block type="pxt-on-start" id="}s%MQ.#tMDbi)$@ljQ^~" x="0" y="0"></block><block type="basic_show_icon" id="7{r}X3NSt]v:SiNJQrTI" disabled-reasons="pxt_automatic_disabled" x="6" y="134"><field name="i">IconNames.Heart</field><next><block type="device_print_message" id="?jR(RS$dP~QuW*Q=!::m" disabled-reasons="pxt_automatic_disabled"><value name="text"><shadow type="text" id="?7fVUWDG;]:AFQp~zB9m" disabled-reasons="pxt_automatic_disabled"><field name="TEXT">Hello!</field></shadow></value><next><block type="device_show_leds" id="qO-5F53pU#^*]PEM9rps" disabled-reasons="pxt_automatic_disabled"><field name="LEDS">`
         . . . . . 
         . . . . . 
         . . . . . 
         . . . . . 
         . . . . .
-        `</field></block></next></block></xml>
+        `</field></block></next></block></next></block></xml>
